@@ -1,12 +1,14 @@
 ---
-title: "Figure out syntax highlight"
+draft: true
 date: 2020-04-30T22:23:21+05:00
-draft: false
-categories:
-- tranquilpeak
-- showcase
-thumbnailImagePosition: left
+thumbnail: uploads/woodkbsidewall.jpg
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+thumbnailImagePosition: left
+title: Figure out syntax highlight
+categories:
+  - tranquilpeak
+  - showcase
+rating: 1
 ---
 
 Acha baat sun chik chik band kar aur agay dekh. manhoos.
