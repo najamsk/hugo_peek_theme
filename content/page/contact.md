@@ -13,5 +13,8 @@ comments:       false
 showMeta:       false
 showActions:    false
 #thumbnailImage: //example.com/image.jpg
+
+thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 ---
 
