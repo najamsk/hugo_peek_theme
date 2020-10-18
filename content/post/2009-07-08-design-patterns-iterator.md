@@ -4,7 +4,7 @@ title: Design Patterns -- Iterator
 date: 2009-07-08 06:16
 comments: true
 categories:
-- c#
+- c-sharp
 - design patterns
 - .net
 ---

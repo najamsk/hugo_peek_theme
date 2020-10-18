@@ -6,7 +6,7 @@ comments: true
 categories:
 - asp.net
 - .net
-- c#
+- c-sharp
 ---
 hi guyz
 

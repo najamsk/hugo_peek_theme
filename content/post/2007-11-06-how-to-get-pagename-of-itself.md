@@ -4,7 +4,7 @@ title: How to get pagename of itself
 date: 2007-11-06 06:04
 comments: true
 categories:
-- c#
+- c-sharp
 - .net
 - asp.net
 ---

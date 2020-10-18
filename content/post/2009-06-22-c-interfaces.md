@@ -4,7 +4,7 @@ title: C-Sharp Interfaces
 date: 2009-06-22 03:37
 comments: true
 categories:
-- c#
+- c-sharp
 - .net
 ---
 These parts are taken from msdn and some might be taken from other websites.

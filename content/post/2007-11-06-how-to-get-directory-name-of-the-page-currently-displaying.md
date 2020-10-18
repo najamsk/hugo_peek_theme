@@ -4,7 +4,7 @@ title: How to get directory name of the page currently displaying
 date: 2007-11-06 06:40
 comments: true
 categories:
-- c#
+- c-sharp
 - .net
 - asp.net
 ---

@@ -5,7 +5,7 @@ date: 2008-07-17 05:23
 comments: true
 categories:
 - asp.net
-- c#
+- c-sharp
 - ado.net
 ---
 Hey guyz today i will show you how to fire delete query by using our beloved control sqldatasource.

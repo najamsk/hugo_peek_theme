@@ -8,7 +8,7 @@ categories:
 - ajax
 - web services
 - .net
-- c#
+- c-sharp
 - jQuery
 ---
 hi guys,

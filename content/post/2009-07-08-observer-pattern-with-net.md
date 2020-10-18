@@ -4,7 +4,7 @@ title: Observer pattern with .net
 date: 2009-07-08 05:11
 comments: true
 categories:
-- c#
+- c-sharp
 - .net
 - design patterns
 ---
