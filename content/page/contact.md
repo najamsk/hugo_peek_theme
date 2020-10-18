@@ -1,10 +1,15 @@
 ---
-title: "Contact"
+showActions: false
+draft: false
+showMeta: false
+keywords:
+  - tech
 date: 2020-10-18T16:10:57+05:00
-categories:
-- category
-- subcategory
+thumbnail: uploads/woodkbsidewall.jpg
+comments: false
+title: Contact
 tags:
+<<<<<<< HEAD
 - tag1
 - tag2
 keywords:
@@ -18,3 +23,6 @@ thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jp
 coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 ---
 
+# Hello
+
+you can drop me an email at najamsk@gmail.com I am open to new projects.
