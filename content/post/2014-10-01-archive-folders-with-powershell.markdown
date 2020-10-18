@@ -25,7 +25,7 @@ $date = Get-Date -Format yyyy_dd_MM
 if ($outFile -eq $null -or $outFile -eq '')
 {
     #$target = "E:\projects\AspNet\MVC\newFolder"
-    $a = Split-Path $target -Parent
+    $a = Split-Path $target -- c-sharp
     $outFile = $target.Replace("$a\", "") + "_$date"  + ".zip"    
 }
 

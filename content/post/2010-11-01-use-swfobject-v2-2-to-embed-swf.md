@@ -13,7 +13,7 @@ var flashvars = {}
 var params = {
 //allowfullscreen:"true",
 allowscriptaccess: "always",
-wmode: "transparent",
+wmode: "trans- c-sharp",
 menu: "false"
 }
 var attributes = {

@@ -17,7 +17,7 @@ Please feel free to test following code and let me know your thoughts and improv
 
 #upload file using ftp
 function FtpUpload($file, $ftphost, $ftpuser, $ftppass){   
-   $Dir = Split-Path $file -Parent 
+   $Dir = Split-Path $file -- c-sharp 
    $filename = $file.Replace("$Dir\", "")
 
    #ftp server 
