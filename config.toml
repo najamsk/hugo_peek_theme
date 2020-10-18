@@ -78,11 +78,11 @@ canonifyurls = true
   url = "/#about"
 
 [[menu.main]]
-    name = "About Me"
-    identifier = "aboutme"
-    weight = 300
-    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-    url = "/aboutme/"  
+  name = "Contact"
+  identifier = "contact"
+  weight = 300
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  url = "/page/contact/"  
 
 [[menu.links]]
   weight = 1
