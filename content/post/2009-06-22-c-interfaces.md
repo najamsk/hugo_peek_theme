@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C# Interfaces
+title: C-Sharp Interfaces
 date: 2009-06-22 03:37
 comments: true
 categories:
