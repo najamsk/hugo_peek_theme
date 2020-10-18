@@ -9,7 +9,6 @@ thumbnail: uploads/woodkbsidewall.jpg
 comments: false
 title: Contact
 tags:
-<<<<<<< HEAD
 - tag1
 - tag2
 keywords:
