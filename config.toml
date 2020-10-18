@@ -81,6 +81,7 @@ canonifyurls = true
     name = "About Me"
     identifier = "aboutme"
     weight = 300
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
     url = "/aboutme/"  
 
 [[menu.links]]
